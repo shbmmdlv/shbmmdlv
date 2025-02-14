@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **[Banu]**, a student passionate about software development and technology. I love learning new things, building projects, and sharing knowledge with the community. 🚀  
+I'm **Banu**, a student passionate about software development and technology. I love learning new things, building projects, and sharing knowledge with the community. 🚀  
 
 ## 🔥 About Me  
 - 🎓 Currently studying **Computer Programming**.  
