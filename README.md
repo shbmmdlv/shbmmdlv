@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**shbmmdlv/shbmmdlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Your Name]**, a student passionate about software development and technology. I love learning new things, building projects, and sharing knowledge with the community. 🚀  
 
-Here are some ideas to get you started:
+## 🔥 About Me  
+- 🎓 Currently studying **Computer Programming**.  
+-📖 Currently learning [Programming Language/Technology]**.  
+- 📚 Always exploring new technologies!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Use  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## 📫 How to Reach Me  
+- **📧 Email:** [bmmdlv99@outlook.cm]  
+- **🔗 LinkedIn:** [Your LinkedIn Profile]  
+- **🌍 Personal Blog:** [Your Blog/Portfolio]  
+
+## 🎯 Fun Facts  
+- 🎵 I love listening to music, especially **Rap**.  
+- 🍕 Favorite food: **None!** 😍  
+- 🎬 Favorite movie/TV show: **Interstellar**  
+
+---
+
+⭐️ **If you like this profile, feel free to leave a star!**  
