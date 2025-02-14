@@ -4,8 +4,8 @@ I'm **[Banu]**, a student passionate about software development and technology. 
 
 ## 🔥 About Me  
 - 🎓 Currently studying **Computer Programming**.  
-- 📖 Currently learning [Programming Language/Technology].  
-- 📚 Always exploring new technologies!  
+- 📖 Currently learning **Programming Language/Technology**.  
+- 📚 Always exploring new *technologies*!  
 
 ## 🛠️ Technologies I Use  
 <p align="left">
@@ -16,7 +16,7 @@ I'm **[Banu]**, a student passionate about software development and technology. 
 </p>
 
 ## 📫 How to Reach Me  
-- **📧 Email:** [bmmdlv99@outlook.cm]  
+- **📧 Email:** [bmmdlv99@outlook.com]  
 - **🔗 LinkedIn:** [https://www.linkedin.com/in/banu-mamadalieva-210581330]  
 
 ## 🎯 Fun Facts  
